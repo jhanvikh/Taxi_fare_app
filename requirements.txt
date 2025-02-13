@@ -6,3 +6,4 @@ xgboost
 scikit-learn
 numpy
 joblib
+pyxlsb
