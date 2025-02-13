@@ -64,9 +64,3 @@ if st.button("Predict Fare"):
 
 # Fare Distribution Plot
 df = pd.read_csv("train_df.csv")
-st.subheader("📊 Fare Distribution by Passenger Count")
-fig, ax = plt.subplots(figsize=(10, 6))
-sns.boxplot(x="passenger_count", y="fare_amount", data=df, ax=ax)
-ax.set_xlabel("Number of Passengers")
-ax.set_ylabel("Fare Amount ($)")
-st.pyplot(fig)
