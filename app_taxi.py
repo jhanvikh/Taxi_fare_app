@@ -62,5 +62,4 @@ if st.button("Predict Fare"):
     fare = model.predict(features)[0]
     st.success(f"Estimated Fare: **${fare:.2f}**")
 
-# Fare Distribution Plot
-df = pd.read_csv("train_df.csv")
+
