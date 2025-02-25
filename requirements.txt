@@ -1,9 +1,8 @@
-streamlit
 pandas
-matplotlib
-seaborn
 xgboost
+pickle5
+streamlit
+geopy
+folium
+streamlit-folium
 scikit-learn
-numpy
-joblib
-pyxlsb
