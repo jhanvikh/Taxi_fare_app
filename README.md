@@ -40,7 +40,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/mapmyfare-nyc.git
+git clone (https://github.com/jhanvikh/Taxi_fare_app.git)
 cd mapmyfare-nyc
 ```
 
