@@ -84,11 +84,7 @@ streamlit run app.py
 ### 👤 Author
 
 Jhanvi Khandelwal  
-[LinkedIn](linkedin.com/in/jhanvi-khandelwal-6535a6189)
-[GitHub](github.com/jhanvikh)
+[LinkedIn](https://www.linkedin.com/in/jhanvi-khandelwal-6535a6189/)
+[GitHub](https://github.com/jhanvikh)
 
----
 
-### 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
