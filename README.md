@@ -33,12 +33,38 @@
 ### 📂 Project Structure
 
 ```
-├── app.py                   # Streamlit UI for user interaction and fare prediction  
-├── model_training.py        # XGBoost model training and serialization script  
-├── taxi_fare_model.pkl      # Trained XGBoost model (pickled)  
-├── train_df.csv             # Cleaned training dataset  
-└── README.md                # Project documentation  
+├── app.py                                   # Streamlit UI for user interaction and fare prediction  
+├── model_training.py                        # XGBoost model training and serialization script  
+├── taxi_fare_model.pkl                      # Trained XGBoost model (pickled)  
+├── train_df.csv                             # Cleaned training dataset  
+├── Taxi_Fare_Prediction_project.ipynb       # Data Analysis And Processing
+└── README.md                                # Project documentation  
 ```
+
+---
+
+## 💼 Business Problem & Solution
+
+### 1. Uncertainty in Taxi Fares
+- **Problem:** NYC passengers face unpredictable fares due to traffic, distance, and time of day.  
+- **Solution:** MapMyFare provides transparent, ML-driven fare predictions in advance.  
+
+### 2. Better Financial Planning for Riders & Tourists
+- **Problem:** Tourists and business travelers struggle to budget for transportation.  
+- **Solution:** Instant estimates help users plan their expenses before booking a ride.  
+
+### 3. Driver & Fleet Optimization
+- **Problem:** Drivers and taxi companies lack insights into profitable routes and timings.  
+- **Solution:** Fare predictions enable better route allocation and shift planning.  
+
+### 4. Improved Customer Experience
+- **Problem:** Traditional taxis lack fare prediction features compared to Uber/Lyft.  
+- **Solution:** Bridges the gap by offering a modern, data-driven fare prediction tool.  
+
+### 5. Scalable Insights for City Planners & Researchers
+- **Problem:** Lack of accessible tools for analyzing taxi fare dynamics.  
+- **Solution:** The app + dataset can be extended for traffic analysis, congestion pricing, and urban mobility research.  
+
 
 ---
 
