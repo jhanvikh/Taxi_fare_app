@@ -12,6 +12,13 @@
 - ✨ Shows fun NYC taxi facts on every prediction
 
 ---
+### Real Time Demonstrations
+
+<img width="1918" height="850" alt="Taxi 11" src="https://github.com/user-attachments/assets/6965ff77-e22f-44ec-ba35-2fbdb3db07cb" />
+
+<img width="1918" height="856" alt="Taxi 22" src="https://github.com/user-attachments/assets/46b5727c-c215-4612-8498-8cadd0234d0a" />
+
+---
 
 ### 🛠️ Tech Stack
 
